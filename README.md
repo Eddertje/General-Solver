@@ -1,1 +1,1 @@
-# Heuristic-search
+# General solver
